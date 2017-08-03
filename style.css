@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 .navbar-inverse {
   background-color: rgba(32, 35, 41,0.8);
 }
 
+=======
+>>>>>>> origin/master
 #about {
   background-color: rgba(32, 35, 41, 0.9);
   color: #ddd;
@@ -15,7 +18,11 @@
 
 
 .header {
+<<<<<<< HEAD
   padding-top: 100px;
+=======
+  padding-top: 50px;
+>>>>>>> origin/master
   padding-bottom: 50px;
 }
 
