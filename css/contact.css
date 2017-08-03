@@ -4,7 +4,7 @@ body {
 
 section#contact {
     background-color: rgba(32, 35, 41, 0.9);
-    background-image: url('images/pattern.png');
+    background-image: url('../images/pattern.png');
     background-size: auto;
     background-repeat: repeat;
     background-attachment: fixed;
